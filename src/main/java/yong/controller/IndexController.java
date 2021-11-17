@@ -10,11 +10,18 @@ public class IndexController {
 		return "index";
 	}
 	
-@Controller
-public class kkkController {
 	@RequestMapping("/kkk.do")
 	public String kkk() {
 		return "kkk";
 	}
-}
+	
+	@RequestMapping("/hotel.do")
+	public String hotel() {
+		return "hotel";
+	}
+	
+	@RequestMapping("/keyword.do")
+	public String keyword() {
+		return "keyword";
+	}
 }

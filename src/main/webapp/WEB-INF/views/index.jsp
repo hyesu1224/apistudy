@@ -18,6 +18,8 @@
     <button onclick="hideMarkers()">마커 감추기</button>
     <button onclick="showMarkers()">마커 보이기</button>
     <input type="button" value="경규오빠" onclick="location.href='kkk.do'">
+    <input type="button" value="호텔 정보" onclick="location.href='hotel.do'">
+    <input type="button" value="키워드 검색" onclick="location.href='keyword.do'">
 </p> 
 <div>
 	<ul>
